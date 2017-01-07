@@ -1,0 +1,666 @@
+
+IN:  100000000000000000000000
+Reg no = 0 
+reg[0]=25 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=0 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+MOVI:  00000000000000000001
+Reg no = 4 || Value = 2
+reg[0]=25 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+MOVI:  00000000000000000001
+Reg no = 5 || Value = 0
+reg[0]=25 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+MOVI:  00000000000000000001
+Reg no = 6 || Value = 0
+reg[0]=25 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=23 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=23 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=21 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=21 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=19 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=19 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=17 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=17 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=15 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=15 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=13 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=13 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=11 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=11 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=9 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=9 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=7 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=7 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=5 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=5 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=3 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=3 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=1 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Zero flag up : 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=1 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+SUB:  110000000000000000000000
+Reg1 no = 0 || Reg2 no = 4
+ALU : 0000 
+reg[0]=-1 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+CMPI:  00000000000000000000
+Reg no = 0 || Value = 0
+Negative flag up  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+reg[0]=-1 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=0 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+MOVI:  00000000000000000001
+Reg no = 5 || Value = 1
+reg[0]=-1 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=1 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+
+HLT:  11111111111111111111111111111111
+reg[0]=-1 
+reg[1]=0 
+reg[2]=0 
+reg[3]=0 
+reg[4]=2 
+reg[5]=1 
+reg[6]=0 
+reg[7]=0 
+reg[8]=0 
+reg[9]=0 
+reg[10]=0 
+reg[11]=0 
+reg[12]=0 
+reg[13]=0 
+reg[14]=0 
+reg[15]=0 
+
+GIVEN NUMBER IS ODD
